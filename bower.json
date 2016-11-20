@@ -1,0 +1,21 @@
+{
+  "name": "bucketlist",
+  "authors": [
+    "quachio <quachio@icloud.com>"
+  ],
+  "description": "",
+  "main": "server.js",
+  "keywords": [
+    "mean",
+    "ios"
+  ],
+  "license": "MIT",
+  "homepage": "http://quach.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "bucketlist",
+  "version": "1.0.0",
+  "description": "bucketlist ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quachio/bucketlist.git"
+  },
+  "keywords": [
+    "bucketlist",
+    "ios",
+    "mean",
+    "angular",
+    "nodejs"
+  ],
+  "author": "Hung Quach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quachio/bucketlist/issues"
+  },
+  "homepage": "https://github.com/quachio/bucketlist#readme"
+}
